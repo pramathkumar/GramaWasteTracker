@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979938543983",
+    "project_id": "gramma-waste-tracker",
+    "storage_bucket": "gramma-waste-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979938543983:android:9d7cb108b9374f8dae409a",
+        "android_client_info": {
+          "package_name": "com.example.grammawastetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBpYJkyUg0744UDhNm9oJYMZz3YdFm_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
